@@ -1,21 +1,93 @@
-MIT License
+Proprietary License Agreement — All Rights Reserved
 
-Copyright (c) 2026 El_Pepe
+Copyright (c) 2026 Bill_Hub
+All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Effective Date: March 8, 2026
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This Proprietary License Agreement ("Agreement") is a legal notice that governs any access to, possession of, or use of the software, source code, assets, data, documentation, and any other materials included in this repository (collectively, the "Product"). The Product is owned and controlled by Bill_Hub (the "Code Owner"). By accessing, copying, downloading, or otherwise using the Product you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. If you do not agree with these terms, you must immediately cease all access to and destroy all copies of the Product.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. Definitions
+
+1.1 "Licensee" means any person, individual, entity, or other legal person who obtains access to the Product in any form.
+1.2 "Product" means the software, source code, binaries, assets, documentation, configuration files, build scripts, and any other materials included with or derived from this repository.
+
+2. Grant of Rights
+
+2.1 No Rights Granted. Except as may be expressly provided in a separate, signed written agreement by the Code Owner, no rights, title, or interest in or to the Product are granted to any Licensee. Access to the Product does not constitute a license to use, copy, modify, distribute, sublicense, or create derivative works of the Product.
+
+3. Prohibitions and Restrictions
+
+3.1 Absolute Prohibition on Copying and Distribution. You may not copy, reproduce, transmit, publish, upload, post, share, sublicense, distribute, or otherwise make available the Product or any portion thereof in any form or by any means, electronic, mechanical, or otherwise, without the express written consent of the Code Owner.
+
+3.2 No Modification or Derivative Works. You may not modify, translate, adapt, alter, patch, or create derivative works of the Product, including but not limited to editing source files, changing resources, or altering compiled or binary files, without the express written consent of the Code Owner.
+
+3.3 No Reverse Engineering. You may not decompile, disassemble, reverse engineer, decrypt, or attempt to derive the source code, algorithms, internal structures, or trade secrets of the Product. You may not circumvent or attempt to circumvent any technical, legal, or contractual protection applied to the Product.
+
+3.4 No Use Without Authorization. You are expressly prohibited from using, installing, running, hosting, or deploying the Product in any environment or for any purpose unless you have received a separate, written authorization from the Code Owner.
+
+3.5 No Circumvention of Controls. You must not remove, alter, or disable any copyright, trademark, or other proprietary notices or protections included with the Product.
+
+4. If You Obtained the Product Without Authorization
+
+4.1 Immediate Cessation and Notice. If you obtained the Product without the express authorization of the Code Owner, you must immediately cease all use, destroy or permanently delete all copies and backups of the Product, and promptly notify the Code Owner using the contact information below.
+
+5. Enforcement, Remedies, and Injunctive Relief
+
+5.1 Remedies. The Code Owner reserves all rights and remedies available under applicable law for any breach, infringement, or unauthorized use of the Product, including but not limited to injunctive relief, monetary damages, and recovery of attorneys' fees and costs.
+
+5.2 Injunctive Relief. Because unauthorized use could cause irreparable harm, the Code Owner is entitled to seek injunctive relief in addition to any other remedies available at law or in equity.
+
+6. Warranties and Disclaimers
+
+6.1 No Warranty. THE PRODUCT IS PROVIDED STRICTLY ON A PROHIBITED-USE BASIS AND, UNLESS A SEPARATE WRITTEN AGREEMENT STATES OTHERWISE, IS PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES OF ANY KIND, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT.
+
+6.2 No Implied License. No action by the Code Owner, including making the Product available for download or inspection, shall be construed as granting any license, right, or permission to use the Product.
+
+7. Limitation of Liability and Indemnification
+
+7.1 Limitation of Liability. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE CODE OWNER SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR FOR LOST PROFITS, LOSS OF BUSINESS, LOSS OF DATA, OR OTHER ECONOMIC LOSS ARISING OUT OF OR IN CONNECTION WITH ANY ACCESS TO, POSSESSION OF, OR USE OF THE PRODUCT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7.2 Indemnification. By accessing or possessing the Product, you agree to indemnify and hold harmless the Code Owner from any claims, liabilities, damages, losses, or expenses (including reasonable attorneys' fees) arising from your breach of this Agreement or unauthorized use of the Product.
+
+8. Export Controls
+
+8.1 You agree to comply with all applicable export and import control laws and regulations. You shall not export or re-export the Product in violation of any applicable export control laws.
+
+9. Termination
+
+9.1 Termination for Breach. The Code Owner may terminate any access or rights to the Product immediately upon written notice if you breach any provision of this Agreement.
+
+9.2 Survival. Sections 4, 5, 6, 7, 9, 10, and 11 of this Agreement shall survive termination.
+
+10. Governing Law and Jurisdiction
+
+10.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction of the Code Owner, without regard to conflict of laws principles.
+
+10.2 Jurisdiction. Any action, suit, or proceeding arising out of or related to this Agreement shall be brought exclusively in the competent courts located within the Code Owner's jurisdiction.
+
+11. Miscellaneous
+
+11.1 Severability. If any provision of this Agreement is held invalid or unenforceable, the remaining provisions shall remain in full force and effect to the greatest extent permitted by law.
+
+11.2 Entire Agreement. This Agreement constitutes the entire agreement between the parties concerning the Product and supersedes all prior or contemporaneous agreements or understandings.
+
+11.3 No Waiver. Failure by the Code Owner to enforce any right or provision of this Agreement shall not constitute a waiver of such right or provision.
+
+12. Contact for Permission or Questions
+
+To request permission to use, copy, modify, or distribute the Product or to obtain any other authorization, contact the Code Owner:
+
+Discord: Bill_Hub
+
+13. Acknowledgment
+
+By accessing or possessing the Product you acknowledge that you have read and understood this Agreement and agree to be bound by its terms.
+
+--
+Signature: ________________________________
+
+Name: Bill_Hub
+Date: March 8, 2026
+
+Note: This document is a custom proprietary license drafted to reflect the wishes of the Code Owner and is not legal advice. For a legally binding license tailored to your needs, consult a qualified attorney.
